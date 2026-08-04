@@ -73,7 +73,7 @@ After predicting the burnout rate, the system sends the prediction and employee 
 
 | Metric | Score |
 |--------|-------|
-| R² Score | 0.906 |
+| R² Score | 0.9052 |
 | MAE | 0.047 |
 | MSE  | 0.0036 |
 | RMSE | 0.061 |
